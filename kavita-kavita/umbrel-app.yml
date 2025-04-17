@@ -1,11 +1,13 @@
 id: kavita-kavita
 name: Kavita
-description: A self-hosted digital library for books.
-releaseNotes: First Umbrel App version of Kavita
 version: 1.0.0
-author: YourName
-website: https://kavitareader.com/
+releaseNotes: Initial release of Kavita on Umbrel
+tagline: A modern self-hosted digital library
+description: |
+  Kavita is a self-hosted solution for organizing and reading your comics, manga, and ebooks.
+developer: Koze
+website: https://kavitareader.com
 repo: https://github.com/Kareadita/Kavita
 support: https://github.com/Kareadita/Kavita/issues
-dependencies: []
-
+icon: https://raw.githubusercontent.com/Kareadita/Kavita/main/public/android-chrome-512x512.png
+port: 5000
