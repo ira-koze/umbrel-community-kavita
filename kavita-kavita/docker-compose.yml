@@ -13,6 +13,9 @@ services:
     ports:
       - "5000:5000"
     volumes:
-      - ./config:/kavita/config
-      - ./manga:/manga
+      - kavita-config:/kavita/config
+      - kavita-books:/books
 
+volumes:
+  kavita-config:
+  kavita-books:
