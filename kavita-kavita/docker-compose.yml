@@ -14,7 +14,7 @@ services:
       - "5000:5000"
     volumes:
       - kavita-config:/kavita/config
-      - kavita-books:/books
+      - kavita-books:/manga
 
 volumes:
   kavita-config:
