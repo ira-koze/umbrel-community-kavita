@@ -1,0 +1,11 @@
+id: kavita-kavita
+name: Kavita
+description: A self-hosted digital library for books.
+releaseNotes: First Umbrel App version of Kavita
+version: 1.0.0
+author: YourName
+website: https://kavitareader.com/
+repo: https://github.com/Kareadita/Kavita
+support: https://github.com/Kareadita/Kavita/issues
+dependencies: []
+
